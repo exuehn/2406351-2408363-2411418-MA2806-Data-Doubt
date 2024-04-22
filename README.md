@@ -1,8 +1,8 @@
 Screenshots:
 ![About Page](Screenshots/about.png)
-![Graphs: All](Screenshots/graphs1.jpg)
-![Graphs: B'Tselem](Screenshots/graphs2.jpg)
-![Graphs: B'Tselem Breakdown](Screenshots/graphs3.jpg)
+![Graphs: All](Screenshots/graphs1.png)
+![Graphs: B'Tselem](Screenshots/graphs2.png)
+![Graphs: B'Tselem Breakdown](Screenshots/graphs3.png)
 
 About our project:
 
