@@ -1,8 +1,8 @@
 Screenshots:
-![About Page](/screenshots/about.jpg "Optional title")
-![Graphs: All](/screenshots/graphs1.jpg "Optional title")
-![Graphs: B'Tselem](/screenshots/graphs2.jpg "Optional title")
-![Graphs: B'Tselem Breakdown](/screenshots/graphs3.jpg "Optional title")
+![About Page](Screenshots/about.png)
+![Graphs: All](Screenshots/graphs1.jpg)
+![Graphs: B'Tselem](Screenshots/graphs2.jpg)
+![Graphs: B'Tselem Breakdown](Screenshots/graphs3.jpg)
 
 About our project:
 
