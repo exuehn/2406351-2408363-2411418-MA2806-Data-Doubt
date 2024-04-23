@@ -20,3 +20,5 @@ Group members:
 2408363 - Programmer. My role involved figuring out the functioning of the site. I was responsible for designing the graphs that corresponded to each data set as well as adding interactivity features, such as making them clickable.
 
 2406351 - Initial Designer and Researcher. I was responsible for the initial design of the project as well as the information provided about each source.
+
+2411418 - Reseacher and creative designer. I helped in looking for the sources that we could use to create this data set. I also helped with the creative side by drawing all the icons and the gif in the project.
